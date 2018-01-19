@@ -9,4 +9,4 @@ function forLoop (array){
  return array; 
 }
 
-forLoop(26)
+forLoop(25)
