@@ -8,4 +8,4 @@ function forLoop (array){
  }
 }
 
-forLoop()
+forLoop(25)
