@@ -19,3 +19,7 @@ function whileLoop(countdown){
 }
 
 whileloop (countdown)
+
+function doWhileLoop (array){
+  
+}
