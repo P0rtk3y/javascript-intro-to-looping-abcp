@@ -10,4 +10,4 @@ function forLoop (array){
  return newArray; 
 }
 
-forLoop([])
+forLoop(array)
